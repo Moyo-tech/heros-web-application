@@ -1,0 +1,20 @@
+Moyosore Weke
+Moyo is a rising software Engineer. She has vast experience working with different software engineering teams. 
+She is skilled in Javascript, Python, Java, HTML and CSS. During the development of the Xavier's Vault website, she mainly worked with the HTML, CSS and PHP.
+
+
+Testimony Adeyemi
+Testimony is an experineced UX/UI designer with vast knowledge in different wireframes, especially Figma. She's currently working with a firm as the UI/UX designer. 
+She, however, also has skillsets in Javascript, HTML and CSS. During the development of the Xavier's Vault website, she mainly worked with the wireframe, Figma.
+
+
+Odira Dancan.
+Dancan is an experienced Software Engineer and a burgeoning Data Scientist.
+Dancan has worked in several firms as a front-end web developer. He is skilled in HTML, CSS, Javascript, PHP, Python, SQL, and R.
+During the development of the Xavier's Vault website, he mainly worked with Moyo on the back-end with PHP to connect the front-end codes to the database.
+
+ 
+
+
+
+

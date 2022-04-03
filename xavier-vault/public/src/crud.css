@@ -1,0 +1,67 @@
+  body {
+      background-color: #eed0a4;
+  }
+  
+  .container {
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+  }
+  
+  .container form {
+      background-color: #ECBC76;
+      width: 500px;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .button {
+      padding-top: 12px;
+  }
+  
+  .btn-btn-primary {
+      background-color: #C6553B;
+      outline: none;
+      border: none;
+      border-radius: 5px;
+  }
+  
+  .btn-btn-primary:hover {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      transition: 0.5s;
+  }
+  
+  .box {
+      width: 750px;
+  }
+  
+  .container table {
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  
+  .link-right {
+      display: flex;
+      justify-content: flex-end;
+      text-decoration: none;
+  }
+  
+  .linkprimary {
+      text-decoration: none;
+      background-color: #C6553B;
+      border-radius: 5px;
+      padding-left: 10px;
+      padding-right: 10px;
+      color: white;
+  }
+  
+  .linkprimary:hover {
+      box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+      transition: 0.5s;
+      text-decoration: none;
+      color: #eed0a4;
+  }
